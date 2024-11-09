@@ -112,10 +112,35 @@ The dataset includes the following fields:
 
 ### DATA CLEANING AND PREPARATIONS
 ---
-In the initial phase of the data cleaning and preparations, we perform the following actions;
-1. Data loading and inspection
+In the initial phase of the data cleaning and preparations, I perform the following actions;
+1. Data loading and inspection; data quality was ensured by correcting any spelling error.
 2. Handling missing variables
 3. Data cleaning and formatting
+4. Data import from Excel to SQL and Power BI
+
+### EXPLANATORY DATA ANALYSIS
+---
+EDA involved the exploring of the data to answer some questions about the data such as:
+This analysis will involve a deep exploration of the data to answer key questions that are essential for effective decision-making. These include:
+1. Determining the total sales for each product category
+2. Counting the number of sales transactions in each region
+3. Identifying the highest-selling product based on total sales value
+4. Calculating the total revenue for each product
+5. Summing monthly sales totals for the current year
+6. Finding the top 5 customers by total purchase amount
+7. Calculating each region’s percentage contribution to total sales
+8. Identifying products with no sales in the last quarter
+
+Basic statistics about the dataset:
+Total Sales: $322,967
+Total Cost Price: $55,672
+Total Quantity Sold: 5510 items
+Total Cost of Goods Sold (COGS): $307,587
+Total Tax: $15,379
+Number of Unique Customers: 1000
+Number of Product Category: 6
+
+ 
 
 
 
