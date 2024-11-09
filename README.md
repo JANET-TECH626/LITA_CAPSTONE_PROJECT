@@ -118,7 +118,7 @@ In the initial phase of the data cleaning and preparations, I perform the follow
 3. Data cleaning and formatting
 4. Data import from Excel to SQL and Power BI
 
-### EXPLANATORY DATA ANALYSIS
+### EXPLORATORY DATA ANALYSIS
 ---
 EDA involved the exploring of the data to answer some questions about the data such as:
 This analysis will involve a deep exploration of the data to answer key questions that are essential for effective decision-making. These include:
