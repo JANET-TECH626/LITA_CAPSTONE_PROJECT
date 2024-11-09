@@ -207,14 +207,9 @@ WHEN OrderDate BETWEEN '2024-06-01' AND '2024-08-31'
 THEN 1 ELSE 0 END) = 0
 ``` 
 
-Basic statistics about the dataset:
-Total Sales: $322,967
-Total Cost Price: $55,672
-Total Quantity Sold: 5510 items
-Total Cost of Goods Sold (COGS): $307,587
-Total Tax: $15,379
-Number of Unique Customers: 1000
-Number of Product Category: 6
+### DATA VISUALIZATION
+---
+
 
  
 
