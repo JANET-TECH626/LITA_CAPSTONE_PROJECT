@@ -7,7 +7,7 @@ This repository contains my final project as a newbie Data Analyst, showing my s
 
 [DATA SOURCES](#data-sources)
 
-[DATA DESSCRIPTION](#data-description)
+[DATA DESCRIPTION](#data-description)
 
 [TOOLS USED](#tools-used)
 
