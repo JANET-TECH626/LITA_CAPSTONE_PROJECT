@@ -7,6 +7,8 @@ This repository contains my final project as a newbie Data Analyst, showing my s
 
 [DATA SOURCES](#data-sources)
 
+[DATA DESSCRIPTION](#data-description)
+
 [TOOLS USED](#tools-used)
 
 [DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparations)
@@ -58,7 +60,22 @@ Expected Outcomes:
 
 ### DATA SOURCES
 ---
-The primary source of Data used here is Sales Data of a Retail Store across four regional divisions and this is typically considered proprietary and confidential. However, there are some publicly available Retail-related datasets (e.g., Walmart Sales, Retail Sales Data) that can be freely downloaded from an open source online such as Kaggle, UCI Machine Learning Repository or Google Dataset Search.
+The primary source of Data used here is Sales Data of a Retail Store across four regional divisions. 
+Its an excel data provided by The Incubator Hub LITA facilitators, the data was converted to CSV format, before importing to SQL, for easy and seamless analysis. 
+
+### DATA DESCRIPTION
+---
+The dataset includes the following fields:
+1. Order ID : Order ID is the unique identifier assigned to a specific order 
+2. Customer ID : Unique identifier given to each customers
+3. Products: product is a tangible or intangible offering that meets the needs or wants of customers sold in the retail store. (Shirt, Gloves, Hat, Shoes, Socks and Jacket)
+4. Region: The regional branches of the store (North, South, East and West)
+5. Order Date: Dates transactions were made
+6. Quantity: Quantity refers to the number of units of the product sold
+7. Unit Price: The unit price is the cost per single unit of the product
+8. Sales Revenue: Income from selling a products.
+   It is calculated as  Sales Revenue = Quantity Sold x Unit Price
+
 
 ### TOOLS USED
 ---
